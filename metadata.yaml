@@ -1,0 +1,101 @@
+_repo: Mr.-Punch-s-Railway-Book_35027
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Tenniel, John
+    alias: Tenniel, Sir John
+    birthdate: 1820
+    deathdate: 1914
+    gutenberg_agent_id: '74'
+    url: http://www.gutenberg.org/2009/agents/74
+    wikipedia: http://en.wikipedia.org/wiki/John_Tenniel
+  - agent_name: Raven-Hill, L. (Leonard)
+    aliases:
+    - Raven-Hill, Leonard
+    - Hill, L. Raven- (Leonard Raven-)
+    - Hill, Raven
+    birthdate: 1867
+    deathdate: 1942
+    gutenberg_agent_id: '36786'
+    url: http://www.gutenberg.org/2009/agents/36786
+  - agent_name: May, Phil
+    alias: Summers, Charlie
+    birthdate: &id001 1864
+    deathdate: 1903
+    gutenberg_agent_id: '37403'
+    url: http://www.gutenberg.org/2009/agents/37403
+    wikipedia: http://en.wikipedia.org/wiki/Phil_May_%28caricaturist%29
+  - agent_name: Reed, Edward Tennyson
+    alias: Reed, E. T. (Edward Tennyson)
+    birthdate: 1860
+    deathdate: 1933
+    gutenberg_agent_id: '37406'
+    url: http://www.gutenberg.org/2009/agents/37406
+  - agent_name: Cleaver, Reginald
+    birthdate: 1870
+    deathdate: 1954
+    gutenberg_agent_id: '37409'
+    url: http://www.gutenberg.org/2009/agents/37409
+  - agent_name: Partridge, Bernard
+    aliases:
+    - Partridge, John Bernard
+    - Gould, Bernard
+    - Partridge, J. Bernard
+    birthdate: 1861
+    deathdate: 1945
+    gutenberg_agent_id: '26310'
+    url: http://www.gutenberg.org/2009/agents/26310
+    wikipedia: http://en.wikipedia.org/wiki/Bernard_Partridge
+  - agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: *id001
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+  - agent_name: Keene, Charles
+    alias: Keene, Charles Samuel
+    birthdate: 1823
+    deathdate: 1891
+    gutenberg_agent_id: '37404'
+    url: http://www.gutenberg.org/2009/agents/37404
+  - agent_name: Du Maurier, George
+    aliases:
+    - Du Maurier, George Louis Palmella Busson
+    - Maurier, George Du
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '4661'
+    url: http://www.gutenberg.org/2009/agents/4661
+    wikipedia: http://en.wikipedia.org/wiki/George_du_Maurier
+covers:
+- cover_type: archival
+  image_path: 35027-h/images/i_cover.png
+creator:
+  editor:
+    agent_name: Hammerton, John Alexander, Sir
+    aliases:
+    - Hammerton, J. A. (John Alexander)
+    - Hammerton, Sir John Alexander
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '4519'
+    url: http://www.gutenberg.org/2009/agents/4519
+    wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2011-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35027'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English wit and humor, Pictorial'
+- !lcc 'PN'
+- !lcsh 'English wit and humor'
+- !lcsh 'Railroads -- Great Britain -- Humor'
+title: Mr. Punch's Railway Book
+url: http://www.gutenberg.org/ebooks/35027
