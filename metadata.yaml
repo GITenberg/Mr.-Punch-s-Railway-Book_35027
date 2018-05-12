@@ -20,7 +20,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/36786
   - agent_name: May, Phil
     alias: Summers, Charlie
-    birthdate: &id001 1864
+    birthdate: 1864
     deathdate: 1903
     gutenberg_agent_id: '37403'
     url: http://www.gutenberg.org/2009/agents/37403
@@ -49,7 +49,7 @@ contributor:
   - agent_name: Leech, John
     alias: Leech, J. (John)
     birthdate: 1817
-    deathdate: *id001
+    deathdate: 1864
     gutenberg_agent_id: '9473'
     url: http://www.gutenberg.org/2009/agents/9473
     wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
@@ -83,6 +83,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4519
     wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35027#Mr.-Punch-s-Railway-Book
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2011-01-21'
 gutenberg_type: Text
